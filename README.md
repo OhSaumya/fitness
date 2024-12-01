@@ -59,15 +59,15 @@ Here are some glimpses of the app:
    ```bash
    git clone https://github.com/ShubhamKrishna0/fitness.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd fitness
 
-3.Install dependencies:
+3. Install dependencies:
    ```bash
    flutter pub get
 
-4.Run the app:
+4. Run the app:
    ```bash
    flutter run
 

@@ -1,4 +1,3 @@
-```markdown
 # 🏋️‍♂️ Fitness App 🥗💤
 
 Welcome to the **Fitness App**, a Flutter-based application developed with 💙 Dart. This app is designed to help you stay on top of your health with these incredible features:
@@ -59,33 +58,3 @@ Here are some glimpses of the app:
 1. Clone this repository:
    ```bash
    git clone https://github.com/ShubhamKrishna0/fitness.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd fitness
-   ```
-
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app:
-   ```bash
-   flutter run
-   ```
-
----
-
-## 💡 Future Plans
-
-- Backend integration for real-time tracking.
-- Enhanced analytics for fitness and diet insights.
-- Cross-platform compatibility with web and desktop versions.
-
----
-
-### ⭐ Don't forget to star this repository if you like it!  
-Thank you for visiting! 😊
-```

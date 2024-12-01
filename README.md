@@ -21,27 +21,28 @@ Welcome to the **Fitness App**, a Flutter-based application developed with 💙 
 
 Here are some glimpses of the app:
 
-- Screenshot 1: ![Screenshot_1733048116](images/Screenshot_1733048116.png)
-- Screenshot 2: ![Screenshot_1733048123](images/Screenshot_1733048123.png)
-- Screenshot 3: ![Screenshot_1733048125](images/Screenshot_1733048125.png)
-- Screenshot 4: ![Screenshot_1733048128](images/Screenshot_1733048128.png)
-- Screenshot 5: ![Screenshot_1733048133](images/Screenshot_1733048133.png)
-- Screenshot 6: ![Screenshot_1733048139](images/Screenshot_1733048139.png)
-- Screenshot 7: ![Screenshot_1733048160](images/Screenshot_1733048160.png)
-- Screenshot 8: ![Screenshot_1733048162](images/Screenshot_1733048162.png)
-- Screenshot 9: ![Screenshot_1733048169](images/Screenshot_1733048169.png)
-- Screenshot 10: ![Screenshot_1733048173](images/Screenshot_1733048173.png)
-- Screenshot 11: ![Screenshot_1733048179](images/Screenshot_1733048179.png)
-- Screenshot 12: ![Screenshot_1733048184](images/Screenshot_1733048184.png)
-- Screenshot 13: ![Screenshot_1733048197](images/Screenshot_1733048197.png)
-- Screenshot 14: ![Screenshot_1733048202](images/Screenshot_1733048202.png)
-- Screenshot 15: ![Screenshot_1733048205](images/Screenshot_1733048205.png)
-- Screenshot 16: ![Screenshot_1733048231](images/Screenshot_1733048231.png)
-- Screenshot 17: ![Screenshot_1733048257](images/Screenshot_1733048257.png)
-- Screenshot 18: ![Screenshot_1733048261](images/Screenshot_1733048261.png)
-- Screenshot 19: ![Screenshot_1733048265](images/Screenshot_1733048265.png)
-- Screenshot 20: ![Screenshot_1733048272](images/Screenshot_1733048272.png)
-- Screenshot 21: ![Screenshot_1733048276](images/Screenshot_1733048276.png)
+-  : ![Screenshot_1733048116](images/Screenshot_1733048116.png){: width="300px" }
+-  : ![Screenshot_1733048123](images/Screenshot_1733048123.png){: width="300px" }
+-  : ![Screenshot_1733048125](images/Screenshot_1733048125.png){: width="300px" }
+-  : ![Screenshot_1733048128](images/Screenshot_1733048128.png){: width="300px" }
+-  : ![Screenshot_1733048133](images/Screenshot_1733048133.png){: width="300px" }
+-  : ![Screenshot_1733048139](images/Screenshot_1733048139.png){: width="300px" }
+-  : ![Screenshot_1733048160](images/Screenshot_1733048160.png){: width="300px" }
+-  : ![Screenshot_1733048162](images/Screenshot_1733048162.png){: width="300px" }
+-  : ![Screenshot_1733048169](images/Screenshot_1733048169.png){: width="300px" }
+-  : ![Screenshot_1733048173](images/Screenshot_1733048173.png){: width="300px" }
+-  : ![Screenshot_1733048179](images/Screenshot_1733048179.png){: width="300px" }
+-  : ![Screenshot_1733048184](images/Screenshot_1733048184.png){: width="300px" }
+-  : ![Screenshot_1733048197](images/Screenshot_1733048197.png){: width="300px" }
+-  : ![Screenshot_1733048202](images/Screenshot_1733048202.png){: width="300px" }
+-  : ![Screenshot_1733048205](images/Screenshot_1733048205.png){: width="300px" }
+-  : ![Screenshot_1733048231](images/Screenshot_1733048231.png){: width="300px" }
+-  : ![Screenshot_1733048257](images/Screenshot_1733048257.png){: width="300px" }
+-  : ![Screenshot_1733048261](images/Screenshot_1733048261.png){: width="300px" }
+-  : ![Screenshot_1733048265](images/Screenshot_1733048265.png){: width="300px" }
+-  : ![Screenshot_1733048272](images/Screenshot_1733048272.png){: width="300px" }
+-  : ![Screenshot_1733048276](images/Screenshot_1733048276.png){: width="300px" }
+
 
 ---
 

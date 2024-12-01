@@ -58,3 +58,18 @@ Here are some glimpses of the app:
 1. Clone this repository:
    ```bash
    git clone https://github.com/ShubhamKrishna0/fitness.git
+
+2.Navigate to the project directory:
+   ```bash
+   cd fitness
+
+3.Install dependencies:
+   ```bash
+   flutter pub get
+
+4.Run the app:
+   ```bash
+   flutter run
+
+
+      

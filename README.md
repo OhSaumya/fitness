@@ -21,7 +21,7 @@ Welcome to the **Fitness App**, a Flutter-based application developed with 💙 
 
 Here are some glimpses of the app:
 
-- Screenshot 1: ![Screenshot_1733048116](image/Screenshot_1733048116.png)
+- Screenshot 1: ![Screenshot_1733048116](images/Screenshot_1733048116.png)
 - Screenshot 2: ![Screenshot_1733048123](image/Screenshot_1733048123.png)
 - Screenshot 3: ![Screenshot_1733048125](image/Screenshot_1733048125.png)
 - Screenshot 4: ![Screenshot_1733048128](image/Screenshot_1733048128.png)

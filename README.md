@@ -47,31 +47,7 @@ Here are some glimpses of the app:
 </div>
 ---
 
-## 🔗 Links
 
-- **GitHub Repository:** [Fitness App](https://github.com/ShubhamKrishna0/fitness.git)
-- **Developer:** Shubham Krishna
-  - 📧 Email: krishnashubham09@gmail.com
-
----
-
-## 🛠️ Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ShubhamKrishna0/fitness.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd fitness
-
-3. Install dependencies:
-   ```bash
-   flutter pub get
-
-4. Run the app:
-   ```bash
-   flutter run
 
 
       
